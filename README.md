@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/AkashSoren1234/Launch_Countdown_Timer](https://github.com/AkashSoren1234/Launch_Countdown_Timer)
-- Live Site URL: https://akashsoren1234.github.io/Launch_Countdown_Timer](https://akashsoren1234.github.io/Launch_Countdown_Timer)
+- Live Site URL: [https://akashsoren1234.github.io/Launch_Countdown_Timer](https://akashsoren1234.github.io/Launch_Countdown_Timer)
 
 ## My process
 
