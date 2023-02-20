@@ -27,15 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop View](./images/desktop-design.jpg)
+- Desktop View: ![Desktop View](./images/desktop-design.jpg)
 
-![Mobile View](./images/mobile-design.jpg)
+- Mobile View: ![Mobile View](./images/mobile-design.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AkashSoren1234/Launch_Countdown_Timer](https://github.com/AkashSoren1234/Launch_Countdown_Timer)
+- Live Site URL: https://akashsoren1234.github.io/Launch_Countdown_Timer](https://akashsoren1234.github.io/Launch_Countdown_Timer)
 
 ## My process
 
